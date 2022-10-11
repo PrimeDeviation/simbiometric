@@ -1,1 +1,1 @@
-# simbiometric
+Simbiometric is a product development hackathon site where individuals and teams can register for events designed to validate their capability as a product development team along dimensions aligned with team roles. The site helps connect individuals with the right resources and support to validate their skills and abilities as a product development team. Simbiometric is the perfect place for those who want to prove their product development chops and build a great product development team.
